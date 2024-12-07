@@ -1,0 +1,2 @@
+int mol;
+int num;
